@@ -10,5 +10,7 @@ jobs:
           dotnet-version: "8.0.x"
       - name: Install dependencies
         run: dotnet restore
+      - name: Restore .NET tools
+        run: dotnet tool restore
       - name: Run CSharpier
         run: dotnet tool run csharpier .
