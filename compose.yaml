@@ -1,0 +1,7 @@
+services:
+  server:
+    build:
+      context: .
+      target: dev
+    ports:
+      - 5089:8080
