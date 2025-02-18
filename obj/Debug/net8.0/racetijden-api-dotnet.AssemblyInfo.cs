@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("racetijden-api-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+842681cbc770636ec2790d472046b4f7c8570d7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52e7aa470bff0c57c4890a229f45e89618488477")]
 [assembly: System.Reflection.AssemblyProductAttribute("racetijden-api-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("racetijden-api-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2982,19 +2982,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/nick/.nuget/packages/": {}
+    "/home/vscode/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nick/Projects/racetijden-api-dotnet/racetijden-api-dotnet.csproj",
+      "projectUniqueName": "/workspaces/racetijden-api-dotnet/racetijden-api-dotnet.csproj",
       "projectName": "racetijden-api-dotnet",
-      "projectPath": "/Users/nick/Projects/racetijden-api-dotnet/racetijden-api-dotnet.csproj",
-      "packagesPath": "/Users/nick/.nuget/packages/",
-      "outputPath": "/Users/nick/Projects/racetijden-api-dotnet/obj/",
+      "projectPath": "/workspaces/racetijden-api-dotnet/racetijden-api-dotnet.csproj",
+      "packagesPath": "/home/vscode/.nuget/packages/",
+      "outputPath": "/workspaces/racetijden-api-dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nick/.nuget/NuGet/NuGet.Config"
+        "/home/vscode/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3047,7 +3047,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
